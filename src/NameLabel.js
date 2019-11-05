@@ -15,4 +15,4 @@ class NameLabel extends React.Component {
     }
 }
 
-//export default NameLabel;
+export default NameLabel;
